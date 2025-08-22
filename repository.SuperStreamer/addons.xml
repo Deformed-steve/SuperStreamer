@@ -1,1 +1,11 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+    <addon id="plugin.video.SuperStreamer" version="0.1.0">
+        <name>Super Streamer Repository</name>
+        <description>Movies & TV Browser like your Vercel app</description>
+        <summary>Browse movies, TV shows, search, and play videos fullscreen. This is intended for private use only.</summary>
+        <type>xbmc.python.pluginsource</type>
+        <platform>all</platform>
+        <disclaimer>VidSrc videos may have ads and auto-mute due to source limitations</disclaimer>
+    </addon>
+</addons>
